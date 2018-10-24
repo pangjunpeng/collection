@@ -2,3 +2,4 @@
 + 取色snipaste
 + 显示按键 KeyCastr
 + markdown编辑器typora
++ Alfred(手动加粗)
